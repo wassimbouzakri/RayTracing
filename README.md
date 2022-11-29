@@ -10,6 +10,10 @@ This project is a simple ray tracer written in C++.
 
 ## How to run?
 
+### Linux and Mac:
+
+### Windows:
+
 ## What is the output?
 
 ## What is the technology stack?
